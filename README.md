@@ -1,6 +1,6 @@
 # reaction-timer
 
-This is a simple game proposed by The Net Ninja, a course channel in Youtube. The project is an vue app with calculate your reaction click time.
+This is a simple game proposed by The Net Ninja, a course channel in Youtube. The project is an vue app that can calculate your reaction click time.
 
 ## Project setup
 ```
